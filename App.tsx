@@ -36,7 +36,7 @@ const storage = new MMKV();
 
 let bgImage;
 try {
-bgImage = require('./assets/hoodie-bg.png');
+bgImage = require('./assets/images/hoodie-bg.png');
 } catch {
 bgImage = { uri: 'https://via.placeholder.com/500' };
 }
