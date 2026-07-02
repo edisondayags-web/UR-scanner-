@@ -1,0 +1,7 @@
+node_modules
+android/app/build
+android/build
+ios/build
+.env
+*.keystore
+*.jks
